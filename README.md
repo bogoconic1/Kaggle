@@ -1,4 +1,4 @@
-# Kaggle Competition Notebooks
+# Kaggle
 
 <p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/yeoyunsianggeremie/competition/light" />
